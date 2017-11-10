@@ -1,0 +1,40 @@
+<modification>
+	<id>VQMod Skip Step 1 Checkout</id>
+	<version>1.5.3</version>
+	<vqmver>1.0</vqmver>
+	<author>Tran Hong Khanh - http://seovne.com</author>
+	<file name="catalog/view/theme/*/template/module/featured.tpl">
+		<operation>
+			<search position="before"><![CDATA[<div class="image">]]></search>
+			<add><![CDATA[	<!--	]]></add>
+		</operation>
+		<operation>
+			<search position="after"><![CDATA[<?php echo $product['name']; ?>" /></a></div>]]></search>
+			<add><![CDATA[	-->	]]></add>
+		</operation>
+		
+		<operation>
+			<search position="before"><![CDATA[<div class="rating">]]></search>
+			<add><![CDATA[	<!--	]]></add>
+		</operation>
+		<operation>
+			<search position="after"><![CDATA[ <?php echo $product['reviews']; ?>" /></div> ]]></search>
+			<add><![CDATA[	-->	]]></add>
+		</operation>		
+		
+		<operation>
+			<search position="replace"><![CDATA[ <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div> ]]></search>
+			<add><![CDATA[ <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo substr($product['name'],0,15).".."; ?></a></div>	]]></add>
+		</operation>
+		
+		<operation>
+			<search position="before"><![CDATA[<?php if ($product['thumb']) { ?>]]></search>
+			<add><![CDATA[ <div class="image"><a class="nodeco" href="<?php echo $product['href']; ?>" onMouseOver="Tip('<span style=\'color:<?php echo $rating_color_tip; ?> ;\'><?php echo $rating_tip; ?>: </span> <?php if ($product['rating']) { ?> <img src=\'catalog/view/theme/default/image/stars-<?php echo $product['rating']; ?>.png\'>  <?php } else { ?><?php echo htmlspecialchars("<img src=\"catalog/view/theme/default/image/stars-0.png\" alt=\"0 reviews\"/>"); ?> <?php } ?> <br /><br /><span style=\'color: <?php echo $reviews_color_tip; ?>;\'><?php echo $reviews_tip; ?>: </span><span style=\'color: <?php echo $reviews_color_tip; ?>;\'><?php echo str_replace("Based on", "", $product['reviews']) ?></span> <br />',  BGCOLOR,'<?php echo $bgcolor_tip; ?>',  BORDERCOLOR, '<?php echo $bordercolor_tip; ?>', PADDING, 10, FONTSIZE, '12pt', TITLE, '<?php echo $product['name']; ?>', TITLEBGCOLOR, '<?php echo $titlecolor_tip; ?>', TITLEPADDING, 4, TITLEFONTSIZE, '15px', TEXTALIGN, 'justify', WIDTH, 250)" onMouseOut="UnTip();"><img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" /></a></div> ]]></add>
+		</operation>
+		<operation>
+			<search position="before"><![CDATA[<div class="box">]]></search>
+			<add><![CDATA[ <script type="text/javascript" src="http://wp-tooltips.googlecode.com/files/wz_tooltip.js"></script> ]]></add>
+		</operation>
+	</file>
+	
+</modification>

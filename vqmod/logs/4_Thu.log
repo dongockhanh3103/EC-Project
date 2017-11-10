@@ -1,0 +1,31 @@
+---------- Date: 2017-11-09 18:58:17 ~ IP : ::1 ----------
+REQUEST URI : /theme/
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\theme\vqmod/xml/vqmod_tip2.xml
+   id        : VQMod Skip Step 1 Checkout
+   version   : 1.5.3
+   vqmver    : 1.0
+   author    : Tran Hong Khanh - http://seovne.com
+
+File Name    : catalog/controller/module/featured.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->data['heading_title'] = $this->language->get('heading_title');
+
+File Name    : catalog/view/theme/*/template/module/featured.tpl(1)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php echo $product['name']; ?>" /></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-11-09 19:17:34 ~ IP : ::1 ----------
+REQUEST URI : /theme/
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\theme\vqmod/xml/vqmod_tip2.xml
+   id        : VQMod Skip Step 1 Checkout
+   version   : 1.5.3
+   vqmver    : 1.0
+   author    : Tran Hong Khanh - http://seovne.com
+
+File Name    : catalog/controller/module/featured.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->data['heading_title'] = $this->language->get('heading_title');
+----------------------------------------------------------------------
+
+

@@ -1,0 +1,50 @@
+2017-11-07 14:14:02 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\theme\system\library\mail.php on line 162
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 20
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 22
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 23
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 24
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 25
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 26
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 27
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 29
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 30
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 31
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 32
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 33
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 34
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 35
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 36
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 37
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 38
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 39
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 41
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 42
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 43
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 44
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 49
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 55
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 58
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 60
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 66
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 72
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 78
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 80
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 85
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 91
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 97
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 103
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 109
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 115
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 121
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 124
+2017-11-09 17:59:38 - PHP Notice:  Indirect modification of overloaded property ControllerModulefblikebox::$data has no effect in C:\xampp\htdocs\theme\admin\controller\module\fblikebox.php on line 134
+2017-11-09 19:17:04 - PHP Notice:  Undefined variable: toolAbr in C:\xampp\htdocs\theme\admin\view\template\module\magiczoomplus_oc2.tpl on line 82
+2017-11-09 19:17:04 - PHP Notice:  Undefined variable: toolAbr in C:\xampp\htdocs\theme\admin\view\template\module\magiczoomplus_oc2.tpl on line 105
+2017-11-09 19:17:27 - PHP Notice:  Undefined variable: toolAbr in C:\xampp\htdocs\theme\admin\view\template\module\magiczoomplus_oc2.tpl on line 82
+2017-11-09 19:17:27 - PHP Notice:  Undefined variable: toolAbr in C:\xampp\htdocs\theme\admin\view\template\module\magiczoomplus_oc2.tpl on line 105
+2017-11-09 19:32:43 - PHP Notice:  Undefined variable: languages in C:\xampp\htdocs\theme\admin\view\template\module\olark.tpl on line 64
+2017-11-09 19:32:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\theme\admin\view\template\module\olark.tpl on line 64
+2017-11-09 19:40:23 - PHP Notice:  Undefined variable: languages in C:\xampp\htdocs\theme\admin\view\template\module\olark.tpl on line 64
+2017-11-09 19:40:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\theme\admin\view\template\module\olark.tpl on line 64
+2017-11-09 19:41:40 - PHP Notice:  Undefined variable: languages in C:\xampp\htdocs\theme\admin\view\template\module\olark.tpl on line 64
+2017-11-09 19:41:40 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\theme\admin\view\template\module\olark.tpl on line 64

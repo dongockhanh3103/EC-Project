@@ -1,0 +1,43 @@
+<modification>
+	<id>VQMod Skip Step 1 Checkout</id>
+	<version>1.5.3</version>
+	<vqmver>1.0</vqmver>
+	<author>Tran Hong Khanh - http://seovne.com</author>
+	<file name="catalog/language/*/module/featured.php">
+		<operation>
+			<search position="after"><![CDATA[$_['text_reviews']  = 'Based on %s reviews.'; ]]></search>
+			<add><![CDATA[ // Tips
+$_['price_tip'] = 'Price';
+$_['rating_tip'] = 'Rating';
+$_['reviews_tip'] = 'Reviews';
+
+$_['price_color_tip'] = '#00ABF0';
+$_['price_number_color_tip'] = '#00ABF0';
+$_['rating_color_tip'] = '#00ABF0';
+$_['reviews_color_tip'] = '#FED049';
+$_['reviews_color_tip'] = '#00ABF0';
+$_['bgcolor_tip'] = '#F8F8F8';
+$_['bordercolor_tip'] = '#dd00aa';
+$_['titlecolor_tip'] = '#990099'; ]]></add>
+		</operation>
+
+	
+	</file>
+	<file name="catalog/controller/module/featured.php">	
+	<operation>
+			<search position="after"><![CDATA[$this->data['heading_title'] = $this->language->get('heading_title');]]></search>
+			<add><![CDATA[ // Tip goes here
+      	$this->data['price_tip'] = $this->language->get('price_tip');
+      	$this->data['rating_tip'] = $this->language->get('rating_tip');
+      	$this->data['reviews_tip'] = $this->language->get('reviews_tip');
+      	$this->data['reviews_color_tip'] = $this->language->get('reviews_color_tip');
+      	$this->data['price_color_tip'] = $this->language->get('price_color_tip');
+      	$this->data['price_number_color_tip'] = $this->language->get('price_number_color_tip');
+      	$this->data['rating_color_tip'] = $this->language->get('rating_color_tip');
+      	$this->data['reviews_color_tip'] = $this->language->get('reviews_color_tip');
+      	$this->data['bgcolor_tip'] = $this->language->get('bgcolor_tip');
+      	$this->data['bordercolor_tip'] = $this->language->get('bordercolor_tip');
+      	$this->data['titlecolor_tip'] = $this->language->get('titlecolor_tip'); ]]></add>
+		</operation>
+	</file>
+</modification>
